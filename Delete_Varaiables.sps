@@ -1,0 +1,4 @@
+﻿* Encoding: UTF-8.
+DELETE VARIABLES TEXT1 to v2111.
+
+
