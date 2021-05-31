@@ -1,0 +1,3 @@
+﻿hello|hi|me
+1|leo|leo
+2|"me|hi"
